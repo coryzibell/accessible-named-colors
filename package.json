@@ -1,0 +1,19 @@
+{
+  "name": "accessible-named-colors",
+  "version": "1.0.0",
+  "description": "All the named css colors as an array of color pairs that meet WCAG AA contrast standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coryzibell/accessible-name-colors.git"
+  },
+  "author": "Cory Zibell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coryzibell/accessible-name-colors/issues"
+  },
+  "homepage": "https://github.com/coryzibell/accessible-name-colors#readme"
+}
